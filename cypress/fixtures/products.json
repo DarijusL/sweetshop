@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Chocolate Bar",
+      "price": 2.99,
+      "description": "Rich dark chocolate bar",
+      "image": "/images/chocolate-bar.jpg",
+      "category": "chocolate"
+    }
+  ]
+} 
